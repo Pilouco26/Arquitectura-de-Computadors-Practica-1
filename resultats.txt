@@ -1,0 +1,180 @@
+intel_total-applu	sim_IPC                      4.3896 # instructions per cycle
+intel_total-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_total-applu	dl1.miss_rate                0.0036 # miss rate (i.e., misses/ref)
+intel_total-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+intel_total-crafty	sim_IPC                      3.1029 # instructions per cycle
+intel_total-crafty	il1.miss_rate                0.0018 # miss rate (i.e., misses/ref)
+intel_total-crafty	dl1.miss_rate                0.0118 # miss rate (i.e., misses/ref)
+intel_total-crafty	ul2.miss_rate                0.0208 # miss rate (i.e., misses/ref)
+intel_total-twolf	sim_IPC                      4.5846 # instructions per cycle
+intel_total-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_total-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+intel_total-twolf	ul2.miss_rate                0.1279 # miss rate (i.e., misses/ref)
+intel_total-vortex	sim_IPC                      3.1951 # instructions per cycle
+intel_total-vortex	il1.miss_rate                0.0107 # miss rate (i.e., misses/ref)
+intel_total-vortex	dl1.miss_rate                0.0131 # miss rate (i.e., misses/ref)
+intel_total-vortex	ul2.miss_rate                0.0276 # miss rate (i.e., misses/ref)
+intel_total-vpr	sim_IPC                      2.1349 # instructions per cycle
+intel_total-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_total-vpr	dl1.miss_rate                0.0072 # miss rate (i.e., misses/ref)
+intel_total-vpr	ul2.miss_rate                0.2616 # miss rate (i.e., misses/ref)
+intel_cache-applu	sim_IPC                      4.0152 # instructions per cycle
+intel_cache-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_cache-applu	dl1.miss_rate                0.0036 # miss rate (i.e., misses/ref)
+intel_cache-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+intel_cache-crafty	sim_IPC                      2.8177 # instructions per cycle
+intel_cache-crafty	il1.miss_rate                0.0022 # miss rate (i.e., misses/ref)
+intel_cache-crafty	dl1.miss_rate                0.0118 # miss rate (i.e., misses/ref)
+intel_cache-crafty	ul2.miss_rate                0.0212 # miss rate (i.e., misses/ref)
+intel_cache-twolf	sim_IPC                      3.8123 # instructions per cycle
+intel_cache-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_cache-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+intel_cache-twolf	ul2.miss_rate                0.1286 # miss rate (i.e., misses/ref)
+intel_cache-vortex	sim_IPC                      2.8431 # instructions per cycle
+intel_cache-vortex	il1.miss_rate                0.0120 # miss rate (i.e., misses/ref)
+intel_cache-vortex	dl1.miss_rate                0.0128 # miss rate (i.e., misses/ref)
+intel_cache-vortex	ul2.miss_rate                0.0280 # miss rate (i.e., misses/ref)
+intel_cache-vpr	sim_IPC                      1.9856 # instructions per cycle
+intel_cache-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_cache-vpr	dl1.miss_rate                0.0076 # miss rate (i.e., misses/ref)
+intel_cache-vpr	ul2.miss_rate                0.2618 # miss rate (i.e., misses/ref)
+intel_alu-applu	sim_IPC                      4.0167 # instructions per cycle
+intel_alu-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_alu-applu	dl1.miss_rate                0.0036 # miss rate (i.e., misses/ref)
+intel_alu-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+intel_alu-crafty	sim_IPC                      2.8707 # instructions per cycle
+intel_alu-crafty	il1.miss_rate                0.0023 # miss rate (i.e., misses/ref)
+intel_alu-crafty	dl1.miss_rate                0.0118 # miss rate (i.e., misses/ref)
+intel_alu-crafty	ul2.miss_rate                0.0330 # miss rate (i.e., misses/ref)
+intel_alu-twolf	sim_IPC                      3.8497 # instructions per cycle
+intel_alu-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_alu-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+intel_alu-twolf	ul2.miss_rate                0.1285 # miss rate (i.e., misses/ref)
+intel_alu-vortex	sim_IPC                      2.8819 # instructions per cycle
+intel_alu-vortex	il1.miss_rate                0.0122 # miss rate (i.e., misses/ref)
+intel_alu-vortex	dl1.miss_rate                0.0128 # miss rate (i.e., misses/ref)
+intel_alu-vortex	ul2.miss_rate                0.0299 # miss rate (i.e., misses/ref)
+intel_alu-vpr	sim_IPC                      1.9784 # instructions per cycle
+intel_alu-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_alu-vpr	dl1.miss_rate                0.0074 # miss rate (i.e., misses/ref)
+intel_alu-vpr	ul2.miss_rate                0.3549 # miss rate (i.e., misses/ref)
+intel-applu	sim_IPC                      4.0152 # instructions per cycle
+intel-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel-applu	dl1.miss_rate                0.0036 # miss rate (i.e., misses/ref)
+intel-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+intel-crafty	sim_IPC                      2.8147 # instructions per cycle
+intel-crafty	il1.miss_rate                0.0022 # miss rate (i.e., misses/ref)
+intel-crafty	dl1.miss_rate                0.0118 # miss rate (i.e., misses/ref)
+intel-crafty	ul2.miss_rate                0.0329 # miss rate (i.e., misses/ref)
+intel-twolf	sim_IPC                      3.8123 # instructions per cycle
+intel-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+intel-twolf	ul2.miss_rate                0.1286 # miss rate (i.e., misses/ref)
+intel-vortex	sim_IPC                      2.8406 # instructions per cycle
+intel-vortex	il1.miss_rate                0.0120 # miss rate (i.e., misses/ref)
+intel-vortex	dl1.miss_rate                0.0128 # miss rate (i.e., misses/ref)
+intel-vortex	ul2.miss_rate                0.0299 # miss rate (i.e., misses/ref)
+intel-vpr	sim_IPC                      1.9627 # instructions per cycle
+intel-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel-vpr	dl1.miss_rate                0.0076 # miss rate (i.e., misses/ref)
+intel-vpr	ul2.miss_rate                0.3548 # miss rate (i.e., misses/ref)
+intel_kvia-applu	sim_IPC                      4.2750 # instructions per cycle
+intel_kvia-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_kvia-applu	dl1.miss_rate                0.0036 # miss rate (i.e., misses/ref)
+intel_kvia-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+intel_kvia-crafty	sim_IPC                      2.9340 # instructions per cycle
+intel_kvia-crafty	il1.miss_rate                0.0017 # miss rate (i.e., misses/ref)
+intel_kvia-crafty	dl1.miss_rate                0.0118 # miss rate (i.e., misses/ref)
+intel_kvia-crafty	ul2.miss_rate                0.0323 # miss rate (i.e., misses/ref)
+intel_kvia-twolf	sim_IPC                      3.9754 # instructions per cycle
+intel_kvia-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_kvia-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+intel_kvia-twolf	ul2.miss_rate                0.1282 # miss rate (i.e., misses/ref)
+intel_kvia-vortex	sim_IPC                      3.0133 # instructions per cycle
+intel_kvia-vortex	il1.miss_rate                0.0100 # miss rate (i.e., misses/ref)
+intel_kvia-vortex	dl1.miss_rate                0.0130 # miss rate (i.e., misses/ref)
+intel_kvia-vortex	ul2.miss_rate                0.0295 # miss rate (i.e., misses/ref)
+intel_kvia-vpr	sim_IPC                      2.0483 # instructions per cycle
+intel_kvia-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+intel_kvia-vpr	dl1.miss_rate                0.0075 # miss rate (i.e., misses/ref)
+intel_kvia-vpr	ul2.miss_rate                0.3550 # miss rate (i.e., misses/ref)
+amd_total-applu	sim_IPC                      5.4324 # instructions per cycle
+amd_total-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_total-applu	dl1.miss_rate                0.0035 # miss rate (i.e., misses/ref)
+amd_total-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+amd_total-crafty	sim_IPC                      2.9440 # instructions per cycle
+amd_total-crafty	il1.miss_rate                0.0017 # miss rate (i.e., misses/ref)
+amd_total-crafty	dl1.miss_rate                0.0118 # miss rate (i.e., misses/ref)
+amd_total-crafty	ul2.miss_rate                0.0208 # miss rate (i.e., misses/ref)
+amd_total-twolf	sim_IPC                      3.9789 # instructions per cycle
+amd_total-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_total-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+amd_total-twolf	ul2.miss_rate                0.1282 # miss rate (i.e., misses/ref)
+amd_total-vortex	sim_IPC                      3.0270 # instructions per cycle
+amd_total-vortex	il1.miss_rate                0.0105 # miss rate (i.e., misses/ref)
+amd_total-vortex	dl1.miss_rate                0.0130 # miss rate (i.e., misses/ref)
+amd_total-vortex	ul2.miss_rate                0.0276 # miss rate (i.e., misses/ref)
+amd_total-vpr	sim_IPC                      2.0763 # instructions per cycle
+amd_total-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_total-vpr	dl1.miss_rate                0.0075 # miss rate (i.e., misses/ref)
+amd_total-vpr	ul2.miss_rate                0.2621 # miss rate (i.e., misses/ref)
+amd_kvia-applu	sim_IPC                      5.1032 # instructions per cycle
+amd_kvia-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_kvia-applu	dl1.miss_rate                0.0035 # miss rate (i.e., misses/ref)
+amd_kvia-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+amd_kvia-crafty	sim_IPC                      2.6535 # instructions per cycle
+amd_kvia-crafty	il1.miss_rate                0.0016 # miss rate (i.e., misses/ref)
+amd_kvia-crafty	dl1.miss_rate                0.0117 # miss rate (i.e., misses/ref)
+amd_kvia-crafty	ul2.miss_rate                0.0645 # miss rate (i.e., misses/ref)
+amd_kvia-twolf	sim_IPC                      3.3120 # instructions per cycle
+amd_kvia-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_kvia-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+amd_kvia-twolf	ul2.miss_rate                0.1285 # miss rate (i.e., misses/ref)
+amd_kvia-vortex	sim_IPC                      2.7107 # instructions per cycle
+amd_kvia-vortex	il1.miss_rate                0.0099 # miss rate (i.e., misses/ref)
+amd_kvia-vortex	dl1.miss_rate                0.0128 # miss rate (i.e., misses/ref)
+amd_kvia-vortex	ul2.miss_rate                0.0479 # miss rate (i.e., misses/ref)
+amd_kvia-vpr	sim_IPC                      1.9340 # instructions per cycle
+amd_kvia-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_kvia-vpr	dl1.miss_rate                0.0078 # miss rate (i.e., misses/ref)
+amd_kvia-vpr	ul2.miss_rate                0.4270 # miss rate (i.e., misses/ref)
+amd_cache-applu	sim_IPC                      3.5497 # instructions per cycle
+amd_cache-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_cache-applu	dl1.miss_rate                0.0034 # miss rate (i.e., misses/ref)
+amd_cache-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+amd_cache-crafty	sim_IPC                      2.4114 # instructions per cycle
+amd_cache-crafty	il1.miss_rate                0.0025 # miss rate (i.e., misses/ref)
+amd_cache-crafty	dl1.miss_rate                0.0116 # miss rate (i.e., misses/ref)
+amd_cache-crafty	ul2.miss_rate                0.0218 # miss rate (i.e., misses/ref)
+amd_cache-twolf	sim_IPC                      3.0320 # instructions per cycle
+amd_cache-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_cache-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+amd_cache-twolf	ul2.miss_rate                0.1286 # miss rate (i.e., misses/ref)
+amd_cache-vortex	sim_IPC                      2.3915 # instructions per cycle
+amd_cache-vortex	il1.miss_rate                0.0125 # miss rate (i.e., misses/ref)
+amd_cache-vortex	dl1.miss_rate                0.0126 # miss rate (i.e., misses/ref)
+amd_cache-vortex	ul2.miss_rate                0.0281 # miss rate (i.e., misses/ref)
+amd_cache-vpr	sim_IPC                      1.8158 # instructions per cycle
+amd_cache-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_cache-vpr	dl1.miss_rate                0.0080 # miss rate (i.e., misses/ref)
+amd_cache-vpr	ul2.miss_rate                0.2648 # miss rate (i.e., misses/ref)
+amd_alu-applu	sim_IPC                      3.5497 # instructions per cycle
+amd_alu-applu	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_alu-applu	dl1.miss_rate                0.0034 # miss rate (i.e., misses/ref)
+amd_alu-applu	ul2.miss_rate                0.5017 # miss rate (i.e., misses/ref)
+amd_alu-crafty	sim_IPC                      2.4145 # instructions per cycle
+amd_alu-crafty	il1.miss_rate                0.0025 # miss rate (i.e., misses/ref)
+amd_alu-crafty	dl1.miss_rate                0.0113 # miss rate (i.e., misses/ref)
+amd_alu-crafty	ul2.miss_rate                0.0660 # miss rate (i.e., misses/ref)
+amd_alu-twolf	sim_IPC                      3.0418 # instructions per cycle
+amd_alu-twolf	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_alu-twolf	dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+amd_alu-twolf	ul2.miss_rate                0.1286 # miss rate (i.e., misses/ref)
+amd_alu-vortex	sim_IPC                      2.3736 # instructions per cycle
+amd_alu-vortex	il1.miss_rate                0.0126 # miss rate (i.e., misses/ref)
+amd_alu-vortex	dl1.miss_rate                0.0126 # miss rate (i.e., misses/ref)
+amd_alu-vortex	ul2.miss_rate                0.0478 # miss rate (i.e., misses/ref)
+amd_alu-vpr	sim_IPC                      1.7970 # instructions per cycle
+amd_alu-vpr	il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+amd_alu-vpr	dl1.miss_rate                0.0079 # miss rate (i.e., misses/ref)
+amd_alu-vpr	ul2.miss_rate                0.4270 # miss rate (i.e., misses/ref)
